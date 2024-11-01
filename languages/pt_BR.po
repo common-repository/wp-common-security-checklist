@@ -1,0 +1,614 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Common Security Checklist\n"
+"POT-Creation-Date: 2017-03-09 19:18-0300\n"
+"PO-Revision-Date: 2017-03-09 19:24-0300\n"
+"Last-Translator: \n"
+"Language-Team: Luis Fred G S <luis.fred.gs@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/common-security-checklist-admin-options.php:60
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:59
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:59
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:59
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:60
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:60
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:60
+msgid "This username already exists"
+msgstr "Este login já existe"
+
+#: admin/common-security-checklist-admin-options.php:155
+#: admin/common-security-checklist-admin-options.php:281
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:117
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:235
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:117
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:235
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:117
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:235
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:130
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:248
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:130
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:256
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:130
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:256
+msgid "General settings"
+msgstr "Configurações gerais"
+
+#: admin/common-security-checklist-admin-options.php:162
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:124
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:124
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:124
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:137
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:137
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:137
+#, php-format
+msgid " %s - General settings"
+msgstr " %s - Configurações gerais"
+
+#: admin/common-security-checklist-admin-options.php:170
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:132
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:132
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:132
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:145
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:145
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:145
+msgid "Remove meta generator Tag?"
+msgstr "Desabilitar o gerador de meta tags"
+
+#: admin/common-security-checklist-admin-options.php:179
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:141
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:141
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:141
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:154
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:154
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:154
+msgid "Change default login url"
+msgstr "Mudar url padrão do formulário de login"
+
+#: admin/common-security-checklist-admin-options.php:187
+#: admin/common-security-checklist-admin-options.php:372
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:149
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:326
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:149
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:326
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:149
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:326
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:162
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:339
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:162
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:347
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:162
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:347
+msgid "Disable theme editor on Admin"
+msgstr "Desabilitar o editor de temas no Admin"
+
+#: admin/common-security-checklist-admin-options.php:195
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:157
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:157
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:157
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:170
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:170
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:170
+msgid "Change default Admin username"
+msgstr "Alterar o nome de login padrão de administrador"
+
+#: admin/common-security-checklist-admin-options.php:203
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:178
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:178
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:178
+msgid "Make a wp-config.php backup"
+msgstr "Fazer um backup do arquivo wp-config.php"
+
+#: admin/common-security-checklist-admin-options.php:211
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:173
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:173
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:173
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:186
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:186
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:186
+msgid "Protect Sensitive Files"
+msgstr "Proteger arquivos sensíveis"
+
+#: admin/common-security-checklist-admin-options.php:219
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:181
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:181
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:181
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:194
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:194
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:194
+msgid "Disable PHP execution in specifics directories"
+msgstr "Desabilita a execução de código PHP em pastas específicas"
+
+#: admin/common-security-checklist-admin-options.php:227
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:189
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:189
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:189
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:202
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:202
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:202
+msgid "To force HTTPS in the admin area"
+msgstr "Forçar o uso do HTTPS no dashboard"
+
+#: admin/common-security-checklist-admin-options.php:235
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:210
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:210
+msgid "Enable Captcha comment form to prevent spam"
+msgstr "Habilita um CAPTCHA no formulário de comentários para combater spam"
+
+#: admin/common-security-checklist-admin-options.php:243
+#: admin/common-security-checklist-admin-options.php:288
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:197
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:242
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:197
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:242
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:197
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:242
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:210
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:255
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:218
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:263
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:218
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:263
+msgid "Login Attempts"
+msgstr "Tentativas de login"
+
+#: admin/common-security-checklist-admin-options.php:253
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:207
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:207
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:207
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:220
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:228
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:228
+msgid "Limit Login Attempts"
+msgstr "Limite de tentativas de login"
+
+#: admin/common-security-checklist-admin-options.php:261
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:215
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:215
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:215
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:228
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:236
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:236
+msgid "Failed login limit"
+msgstr "limite para tentativas de login mal sucedidas"
+
+#: admin/common-security-checklist-admin-options.php:269
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:223
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:223
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:223
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:236
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:244
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:244
+msgid "Enable Captcha on login form"
+msgstr "Habilitar um Captcha no formulário de login"
+
+#: admin/common-security-checklist-admin-options.php:321
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:275
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:275
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:275
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:288
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:296
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:296
+msgid "Do you need help?"
+msgstr "Quer uma ajudinha?"
+
+#: admin/common-security-checklist-admin-options.php:322
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:276
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:276
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:276
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:289
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:297
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:297
+msgid "Yes! lend a hand!"
+msgstr "Sim, preciso de uma mãozinha!"
+
+#: admin/common-security-checklist-admin-options.php:326
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:280
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:280
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:280
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:293
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:301
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:301
+msgid "Save Settings"
+msgstr "Salvar configurações"
+
+#: admin/common-security-checklist-admin-options.php:354
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:308
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:308
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:308
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:321
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:329
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:329
+msgid "Remove Meta Generator Tag from your HTML theme. Example: "
+msgstr "Oculta meta tag generator do HTML do seu tema. Exemplo:"
+
+#: admin/common-security-checklist-admin-options.php:356
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:310
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:310
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:310
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:323
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:331
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:331
+msgid "All right! Meta Generator Tag was disabled from HTML."
+msgstr "Tudo certo! A meta tag generator foi desabilitada em seu HTML"
+
+#: admin/common-security-checklist-admin-options.php:376
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:330
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:330
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:330
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:343
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:351
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:351
+msgid "All right! Theme editor was disabled on Admin"
+msgstr "Tudo certo! O editor de temas do admin foi desabilitado"
+
+#: admin/common-security-checklist-admin-options.php:395
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:344
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:344
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:344
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:357
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:370
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:370
+msgid "Your default login slug <strong>was changed</strong> to: "
+msgstr "Sua URL de login padrão <strong>foi alterada</strong> para: "
+
+#: admin/common-security-checklist-admin-options.php:399
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:374
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:374
+msgid ""
+"Change your login url from wp-login.php or /wp-admin to a new url on field "
+"above. <br/> Default will be http://www.yoursite.com/login if you don't "
+"provide other slug on field above."
+msgstr ""
+"Permite alterar a sua URL de login de wp-login.php ou /wp-admin para a nova "
+"URL especificada no campo acima. <br/> O padrão será www.yoursite.com/login, "
+"caso você não informe um outro slug no campo acima."
+
+#: admin/common-security-checklist-admin-options.php:412
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:356
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:356
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:356
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:369
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:387
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:387
+msgid ""
+"Change your admin username. This is a good security measure to help protect "
+"against brute force attack. Update and login again."
+msgstr ""
+"Altere o nome de login parão do administrador. Trata-se de uma boa medida de "
+"segurança para proteger contra ataques de força bruta. Atualize o username e "
+"faça login novamente no painel."
+
+#: admin/common-security-checklist-admin-options.php:418
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:362
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:362
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:362
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:375
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:393
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:393
+msgid "All right! <strong>\"admin\"</strong> username was not found :-)."
+msgstr ""
+"Tudo certo!  O login padrão <strong>\"admin\"</strong> já foi alterado."
+
+#: admin/common-security-checklist-admin-options.php:429
+msgid "Your e-mail address"
+msgstr "Seu e-mail"
+
+#: admin/common-security-checklist-admin-options.php:431
+msgid ""
+"Make a copy of current wp-config.php file. Provide your email address on the "
+"field above, to send an email with backup file."
+msgstr ""
+"Faz uma cópia do arquivo wp-config.php atual. Informe um endereço de e-mail "
+"no campo acima, para receber um e-mail com o arquivo de backup em anexo."
+
+#: admin/common-security-checklist-admin-options.php:452
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:407
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:407
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:407
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:408
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:426
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:426
+msgid ""
+"This denies all web access to your wp-config file, error_logs, php.ini, and "
+"htaccess/htpasswds"
+msgstr ""
+"Isto bloqueia qualquer acesso direto via web aos arquivos wp-config, "
+"error_logs, php.ini, e htaccess/htpasswds"
+
+#: admin/common-security-checklist-admin-options.php:454
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:409
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:409
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:409
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:410
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:428
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:428
+msgid "All right! Sensitive Files are protected."
+msgstr ""
+"Tudo certo! Os arquivos sensíveis da sua instalação wordpress estão "
+"protegidos contra acesso direto via web"
+
+#: admin/common-security-checklist-admin-options.php:470
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:425
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:425
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:425
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:426
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:444
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:444
+msgid "Disable PHP Execution in wp-content/uploads and wp-includes Directories"
+msgstr ""
+"Bloqueia a execução de código PHP nas pastas wp-content/uploads e wp-includes"
+
+#: admin/common-security-checklist-admin-options.php:472
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:427
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:427
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:427
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:428
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:446
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:446
+msgid "wp-content/uploads and wp-includes directories are protected"
+msgstr "As pastas wp-content/uploads e wp-includes já estão protegidas"
+
+#: admin/common-security-checklist-admin-options.php:488
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:443
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:443
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:443
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:444
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:462
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:462
+msgid ""
+"Force HTTPS in the admin area. <strong>Follow With Caution</strong>. Make "
+"sure you test that HTTPS is working properly on your server! Go to "
+"<strong>https://</strong>yoursite.com/wp-admin/ to check. <strong>Otherwise "
+"don't activate this feature</strong>, you'll be forcing URLs that don't work "
+"and your admin area will inaccessible."
+msgstr ""
+"Força o uso do HTTPS no dashboard. <strong>Proceda com cautela</strong>. "
+"Antes de habilitar esta feature, verifique se seu servidor suporta o SSL e "
+"se você possui um certificado válido! Acesso <strong>https://</"
+"strong>yoursite.com/wp-admin/ para verificar. <strong>Caso contrário, não "
+"ative esta funcionalidade</strong>, pois você estará forçando o uso de URLs "
+"que não funcionam e seu dashboard ficará inacessível, ate que você remova a "
+"seguinte linha do seu wp-config.php: define('FORCE_SSL_ADMIN', true);"
+
+#: admin/common-security-checklist-admin-options.php:490
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:445
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:445
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:445
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:446
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:464
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:464
+msgid "All goes well, you got a secure connection on dashboard."
+msgstr "Tudo certo! Seu dashboard está mais seguro com o SSL."
+
+#: admin/common-security-checklist-admin-options.php:492
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:447
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:447
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:447
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:448
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:466
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:466
+msgid ""
+"You have activated this feature, but it's not working yet. Reload this page!"
+msgstr ""
+"Você ativou esta funcionalidade, mas ela ainda não foi definitivamente "
+"aplicada. Recarregue esta página para ver o resultado."
+
+#: admin/common-security-checklist-admin-options.php:506
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:480
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:480
+msgid ""
+"Prove that the visitor is a human being and not a spam robot. If checked, "
+"comment form asks the visitors to answer a math questions. This prevent spam "
+"on your comment section."
+msgstr ""
+"Serve para provar que o visitante não é um bot tentando postar spam na área "
+"de comentários. Se esta feature estiver marcada, o formulário vai exigir que "
+"o usuário responda a uma pergunta de matemática, como requisito para poder "
+"postar um comentário. Isto vai combater spam na parte de comentários do seu "
+"site."
+
+#: admin/common-security-checklist-admin-options.php:520
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:462
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:462
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:462
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:463
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:494
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:494
+msgid ""
+"Prevent Mass WordPress Login Attacks by setting locking the system when "
+"login fail"
+msgstr ""
+"Prevenção contra ataques de força bruta na área de login do seu WordPress, "
+"definindo o bloqueio do sistema quando o login falhar em uma quantidade "
+"específica de tentativas."
+
+#: admin/common-security-checklist-admin-options.php:533
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:475
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:475
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:475
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:476
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:507
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:507
+msgid "Number of authentication attempts accepted."
+msgstr "Número de tentativas de login permitidas"
+
+#: admin/common-security-checklist-admin-options.php:546
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:488
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:488
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:488
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:489
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:520
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:520
+msgid ""
+"Prove that the visitor is a human being and not a spam robot. If checked, "
+"login form asks the visitors to answer a math questions. This prevent mass "
+"attacks on WordPress login too."
+msgstr ""
+"Isto serve para provar que a pessoa tentando fazer login no seu site é um "
+"humano e não um <i>bot</i>. Se esta feature estiver marcada, o formulário de "
+"login passará a pedir que o visitante responda a uma pergunta de matemática "
+"antes de fazer login. Isto também serve para prevenir contra ataques na sua "
+"página de login."
+
+#: common-security-checklist.php:211
+#: deploy/tags/1.0.0/common-security-checklist.php:221
+#: deploy/tags/1.0.1/common-security-checklist.php:217
+#: deploy/tags/1.0.1/trunk/common-security-checklist.php:217
+#: deploy/tags/1.0.2/common-security-checklist.php:217
+#: deploy/tags/1.0.3/common-security-checklist.php:211
+#: deploy/trunk/common-security-checklist.php:211
+msgid "Settings"
+msgstr "Configurações"
+
+#: common-security-checklist.php:226
+#: deploy/tags/1.0.0/common-security-checklist.php:236
+#: deploy/tags/1.0.1/common-security-checklist.php:232
+#: deploy/tags/1.0.1/trunk/common-security-checklist.php:232
+#: deploy/tags/1.0.2/common-security-checklist.php:232
+#: deploy/tags/1.0.3/common-security-checklist.php:226
+#: deploy/trunk/common-security-checklist.php:226
+msgid "WP Common security Checklist"
+msgstr ""
+
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:165
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:165
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:165
+msgid "Upload Folder"
+msgstr "Pasta de uploads"
+
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:378
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:378
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:378
+msgid "Detected possible malicious code in wp-content/uploads folder"
+msgstr "Possível código malicioso foi encontrado na pasta wp-content/uploads"
+
+#: deploy/tags/1.0.0/admin/common-security-checklist-admin-options.php:391
+#: deploy/tags/1.0.1/admin/common-security-checklist-admin-options.php:391
+#: deploy/tags/1.0.1/trunk/admin/common-security-checklist-admin-options.php:391
+msgid "All right! suspected files were not found on wp-content/uploads folder."
+msgstr ""
+"Tudo certo! Arquivos suspeitos não foram encontrados na pasta wp-content/"
+"uploads"
+
+#: deploy/tags/1.0.0/common-security-checklist.php:166
+#: deploy/tags/1.0.1/common-security-checklist.php:162
+#: deploy/tags/1.0.1/trunk/common-security-checklist.php:162
+#: deploy/tags/1.0.2/common-security-checklist.php:162
+#, php-format
+msgid ""
+"<strong>WP Common Security Checklist:</strong> Your default login slug "
+"<strong>was changed</strong> to: %s/. Clique %s and change to one of your "
+"preference"
+msgstr ""
+"<strong>WP Common Security Checklist:</strong> Sua URL padrão de login "
+"<strong>foi alterada</strong> para: %s/. Clique %s e mude para uma url de "
+"sua preferência"
+
+#: deploy/tags/1.0.0/common-security-checklist.php:168
+#: deploy/tags/1.0.1/common-security-checklist.php:164
+#: deploy/tags/1.0.1/trunk/common-security-checklist.php:164
+#: deploy/tags/1.0.2/common-security-checklist.php:164
+msgid "here"
+msgstr "aqui"
+
+#: deploy/tags/1.0.0/lib/common-security-checklist-login-attempts.php:32
+#: deploy/tags/1.0.1/lib/common-security-checklist-login-attempts.php:32
+#: deploy/tags/1.0.1/trunk/lib/common-security-checklist-login-attempts.php:32
+#: deploy/tags/1.0.2/lib/common-security-checklist-login-attempts.php:32
+#: deploy/tags/1.0.3/lib/common-security-checklist-login-attempts.php:32
+#: deploy/trunk/lib/common-security-checklist-login-attempts.php:32
+#: lib/common-security-checklist-login-attempts.php:32
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: You have reached authentification limit, you will be "
+"able to try again in %1$s."
+msgstr ""
+"<strong>Erro</strong>: você atingiu o limite máximo para tentativas de "
+"login, tente novamente dentro de %1$s."
+
+#: deploy/tags/1.0.0/lib/common-security-checklist-login-form.php:45
+#: deploy/tags/1.0.1/lib/common-security-checklist-login-form.php:45
+#: deploy/tags/1.0.1/trunk/lib/common-security-checklist-login-form.php:45
+#: deploy/tags/1.0.2/lib/common-security-checklist-login-form.php:45
+#: deploy/tags/1.0.3/lib/common-security-checklist-login-form.php:45
+#: deploy/trunk/lib/common-security-checklist-login-form.php:45
+#: lib/common-security-checklist-login-form.php:45
+msgid "<strong>ERROR</strong>: please solve the math question"
+msgstr ""
+"<strong>ERRO</strong>: Por favor, responda a pergunta de matemática abaixo"
+
+#: deploy/tags/1.0.0/lib/common-security-checklist-login-slug.php:70
+#: deploy/tags/1.0.1/lib/common-security-checklist-login-slug.php:70
+#: deploy/tags/1.0.1/trunk/lib/common-security-checklist-login-slug.php:70
+#: deploy/tags/1.0.2/lib/common-security-checklist-login-slug.php:70
+#: deploy/tags/1.0.3/lib/common-security-checklist-login-slug.php:70
+#: deploy/trunk/lib/common-security-checklist-login-slug.php:70
+#: lib/common-security-checklist-login-slug.php:70
+msgid "This feature is not enabled."
+msgstr "Esta funcionalidade não está habilitada."
+
+#: deploy/tags/1.0.0/lib/common-security-checklist-login-slug.php:78
+#: deploy/tags/1.0.1/lib/common-security-checklist-login-slug.php:78
+#: deploy/tags/1.0.1/trunk/lib/common-security-checklist-login-slug.php:78
+#: deploy/tags/1.0.2/lib/common-security-checklist-login-slug.php:78
+#: deploy/tags/1.0.3/lib/common-security-checklist-login-slug.php:78
+#: deploy/trunk/lib/common-security-checklist-login-slug.php:78
+#: lib/common-security-checklist-login-slug.php:78
+msgid "This feature is not avaliable."
+msgstr "Esta funcionalidade não está disponível no momento"
+
+#: deploy/tags/1.0.2/admin/common-security-checklist-admin-options.php:387
+#: deploy/tags/1.0.3/admin/common-security-checklist-admin-options.php:405
+#: deploy/trunk/admin/common-security-checklist-admin-options.php:405
+msgid "Make a copy of current wp-config.php file"
+msgstr "Permite fazer um backup do arquivo wp-config.php"
+
+#: deploy/tags/1.0.2/lib/common-security-checklist-toolkit.php:113
+#: deploy/tags/1.0.3/lib/common-security-checklist-toolkit.php:113
+#: deploy/trunk/lib/common-security-checklist-toolkit.php:113
+#: lib/common-security-checklist-toolkit.php:113
+msgid "You don't have recent backup files"
+msgstr "Você não fez backups recentemente"
+
+#: deploy/tags/1.0.2/lib/common-security-checklist-toolkit.php:130
+#: deploy/tags/1.0.3/lib/common-security-checklist-toolkit.php:130
+#: deploy/trunk/lib/common-security-checklist-toolkit.php:130
+#: lib/common-security-checklist-toolkit.php:130
+msgid "Your most recent backup has less than 5 days "
+msgstr "Seu backup mais recente tem menos de 5 dias "
+
+#: deploy/tags/1.0.2/lib/common-security-checklist-toolkit.php:134
+#: deploy/tags/1.0.3/lib/common-security-checklist-toolkit.php:134
+#: deploy/trunk/lib/common-security-checklist-toolkit.php:134
+#: lib/common-security-checklist-toolkit.php:134
+msgid "Your most recent backup has more than 5 days "
+msgstr "Seu backup mais recente tem mais de 5 dias "
+
+#: deploy/tags/1.0.3/lib/common-security-checklist-comment-form.php:46
+#: deploy/trunk/lib/common-security-checklist-comment-form.php:46
+#: lib/common-security-checklist-comment-form.php:46
+msgid "Error: Please, fill the captcha field."
+msgstr ""
+"Erro: Por favor, preencha o campo captcha, respondendo à pergunta "
+"corretamente."
+
+#: deploy/tags/1.0.3/lib/common-security-checklist-comment-form.php:50
+#: deploy/trunk/lib/common-security-checklist-comment-form.php:50
+#: lib/common-security-checklist-comment-form.php:50
+msgid "Error: Your captcha answer was incorrect."
+msgstr "Erro: Sua resposta no campo captcha está incorreta."
+
+#~ msgid "Update now. It's strongly recommended"
+#~ msgstr "Atualizar agora. É extemamente recomendado"
+
+#~ msgid "Detected possible malicious code in wp-content/upload folder"
+#~ msgstr "Possível código malicioso foi encontrado na pasta wp-content/upload"

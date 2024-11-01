@@ -1,0 +1,215 @@
+.csc_wrap_admin_header
+{
+	padding-top: 5px;
+}
+
+.csc_wrap{
+	background: #ffffff;
+	padding: 0;
+	margin: 10px 20px 0 2px;
+}
+
+.csc_wrap h2{
+
+}
+
+
+.csc_wrap h2.nav-tab-wrapper{
+	padding-left: 0;
+	background-color: #EC3819;
+	padding-top: 0;
+	border-bottom: 0;
+}
+
+.csc_wrap h2.nav-tab-csc_wrapper, h3.nav-tab-csc_wrapper{
+	padding-left: 0;
+}
+
+.csc_wrap .nav-tab-active, .nav-tab-active:hover {
+  background: #B01A00 !important;
+  color: #FAF9F9;
+  border-bottom: 0;
+}
+
+.csc_wrap h2 .nav-tab:hover
+{
+	text-decoration: none;
+}
+
+.csc_wrap h2 .nav-tab{
+	font-weight: 100;
+	margin: 0;
+	background: #ec3819;
+	color: #ffffff;
+	border: 0;
+}
+
+.csc_wrap form h2{
+	background-color: #DA2405;
+	padding: 20px;
+	margin: 0;
+	color: #ffffff;
+	font-weight: 200;
+}
+
+.csc_wrap form h4{
+	background-color: #DA2405;
+	padding: 20px;
+	margin: 0;
+	color: #ffffff;
+	font-weight: 100;
+	font-style: italic;
+}
+
+.csc_wrap .form-table th
+{
+	/*font-weight: 400;*/
+	/*font-size: 14px;*/
+}
+
+.csc_wrap .option_help
+{
+	font-weight: 300;
+	font-size: 13px;
+	margin-top: 12px;
+}
+
+.csc_wrap input[type="text"],
+.csc_wrap input[type="search"],
+.csc_wrap input[type="radio"],
+.csc_wrap input[type="tel"],
+.csc_wrap input[type="time"],
+.csc_wrap input[type="url"],
+.csc_wrap input[type="week"],
+.csc_wrap input[type="password"],
+.csc_wrap input[type="checkbox"],
+.csc_wrap input[type="color"],
+.csc_wrap input[type="date"],
+.csc_wrap input[type="datetime"],
+.csc_wrap input[type="datetime-local"],
+.csc_wrap input[type="email"],
+.csc_wrap input[type="month"],
+.csc_wrap input[type="number"],
+.csc_wrap select,
+.csc_wrap textarea
+{
+	border: 1px solid #F1F5F9;
+}
+
+.csc_wrap input[type="text"],
+.csc_wrap input[type="search"],
+.csc_wrap input[type="radio"],
+.csc_wrap input[type="tel"],
+.csc_wrap input[type="time"],
+.csc_wrap input[type="url"],
+.csc_wrap input[type="week"],
+.csc_wrap input[type="password"],
+.csc_wrap input[type="checkbox"],
+.csc_wrap input[type="color"],
+.csc_wrap input[type="date"],
+.csc_wrap input[type="datetime"],
+.csc_wrap input[type="datetime-local"],
+.csc_wrap input[type="email"],
+.csc_wrap input[type="month"],
+.csc_wrap input[type="number"],
+.csc_wrap select,
+.csc_wrap textarea
+{
+	font-weight: 400;
+	background-color: #F1F5F9;
+	-webkit-box-shadow: none;
+    box-shadow: none;
+	padding: 8px;
+}
+
+.csc_wrap input[type="text"]:focus,
+.csc_wrap input[type="search"]:focus,
+.csc_wrap input[type="radio"]:focus,
+.csc_wrap input[type="tel"]:focus,
+.csc_wrap input[type="time"]:focus,
+.csc_wrap input[type="url"]:focus,
+.csc_wrap input[type="week"]:focus,
+.csc_wrap input[type="password"]:focus,
+.csc_wrap input[type="checkbox"]:focus,
+.csc_wrap input[type="color"]:focus,
+.csc_wrap input[type="date"]:focus,
+.csc_wrap input[type="datetime"]:focus,
+.csc_wrap input[type="datetime-local"]:focus,
+.csc_wrap input[type="email"]:focus,
+.csc_wrap input[type="month"]:focus,
+.csc_wrap input[type="number"]:focus,
+.csc_wrap select:focus,
+.csc_wrap textarea:focus {
+    border-color: #F1F5F9;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.csc_wrap .button-primary,
+.csc_wrap .button-primary:hover
+{
+	background: #DA2405;
+    border-color: #DA2405 #DA2405 #DA2405;
+    -webkit-box-shadow: 0 1px 0 #006799;
+    box-shadow: 0 1px 0 #DA2405;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #DA2405,1px 0 1px #DA2405,0 1px 1px #DA2405,-1px 0 1px #DA2405;
+}
+
+.csc_wrap .color-red
+{
+	color: #DA2405;
+}
+
+.csc_wrap i.color-red strong
+{
+	font-weight: 800;
+}
+
+.csc_wrap .color-green
+{
+    color: #67ae18;
+}
+
+.csc_wrap .well
+{
+	font-weight: 400;
+	background: #FFE5E1;
+	border: #da2405 dashed 1px;
+	border-left: #da2405 solid 4px;
+	padding:6px;
+}
+
+
+.csc_wrap code
+{
+	padding: 0;
+	font-weight: 400;
+}
+
+.csc_wrap .form-table,
+.csc_wrap p.submit
+{
+    margin: 5px;
+}
+
+.csc_wrap .fa{
+	font-size: 18px;
+}
+
+.csc_wrap .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary,
+.csc_wrap .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary {
+	color: #fff;
+	background: #52b733;
+}
+
+.csc_wrap .yellow_box {
+    margin: 10px 0 15px;
+    background-color: #FFFFE0;
+    border-color: #E6DB55;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+}
